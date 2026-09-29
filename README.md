@@ -1,74 +1,46 @@
-\# Git Mastery Task
-
-
-
-\## Objective
-
-
-
+Git Mastery Task
 This project demonstrates Git and GitHub version control using the command line.
 
 
+1.Initialized a local Git repository
 
-\## Tasks Completed
+2. Created a project text file
 
+3. Created and configured a `.gitignore` file
 
+4. Ignored `.log` files using `\*.log`
 
-\- Initialized a local Git repository
+5. Staged files using Git
 
-\- Created a project text file
+6. Created an initial commit
 
-\- Created and configured a `.gitignore` file
+7. Connected the local repository to GitHub
 
-\- Ignored `.log` files using `\*.log`
+8.Pushed the repository to a public GitHub repository
 
-\- Staged files using Git
+Files
+1. `my\_project\_file.txt` - Required project text file
 
-\- Created an initial commit
+2. `.gitignore` - Configured to ignore `.log` files
 
-\- Connected the local repository to GitHub
+3. `README.md` - Project documentation
 
-\- Pushed the repository to a public GitHub repository
+4. `debug.log` - Dummy log file intentionally ignored by Git
 
+Git Commands Practiced
+1.`git init`
 
+2. `git status`
 
-\## Files
+3. `git add .`
 
+4. `git commit`
 
+5. `git branch -M main`
 
-\- `my\_project\_file.txt` - Required project text file
+6. `git remote add origin`
 
-\- `.gitignore` - Configured to ignore `.log` files
-
-\- `README.md` - Project documentation
-
-\- `debug.log` - Dummy log file intentionally ignored by Git
-
-
-
-\## Git Commands Practiced
-
-
-
-\- `git init`
-
-\- `git status`
-
-\- `git add .`
-
-\- `git commit`
-
-\- `git branch -M main`
-
-\- `git remote add origin`
-
-\- `git push`
-
-
-
-\## Result
-
-
+7. `git push`
 
 The project was created locally and is intended to be pushed to a public GitHub repository using the command line.
 
